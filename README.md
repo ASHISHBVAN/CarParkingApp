@@ -9,7 +9,7 @@ This project is an automated ticketing system for a parking lot. It allows custo
    
 2. Installation and Setup  
    Clone the Repository:  
-   git clone https://github.com/your-username/parking-system.git  
+   git clone https://github.com/ASHISHBVAN/CarParkingApp.git  
 
 3. Build the Project:  
    cd CarParkingApp  
